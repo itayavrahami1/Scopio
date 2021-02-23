@@ -9,7 +9,6 @@ from inventory.Scripts.Service.Image import image_service
 if __name__ == '__main__':
 
     path = r'C:\Users\itay.a\Coding\OpenCV\Interview\Interview'
-    # dx_pixel = []
     dz = []
     labels = []
 
